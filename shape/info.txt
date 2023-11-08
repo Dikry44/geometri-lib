@@ -1,0 +1,5 @@
+membuat project ini menjadi modul, yg bisa digunakan di project lain
+
+cara nyari path: terminal -> cd
+
+project ini udh jadi modul

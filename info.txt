@@ -1,0 +1,6 @@
+ganti modul dengan path
+
+commit ke repository:
+1. git init
+2. git add .
+3. gir commit "message"
